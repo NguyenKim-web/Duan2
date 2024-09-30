@@ -120,7 +120,7 @@ a{
     top: 0;
     position: sticky;
     z-index: 1;
-    
+
 }
 
 .header-navbar{
@@ -159,6 +159,9 @@ a{
 }
 
 /* hero */
+.w3-blue{
+    padding: 5px 5px;
+}
 .hero-body{
     display: flex;
     justify-content: space-between;
